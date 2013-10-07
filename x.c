@@ -58,7 +58,7 @@ static void zoomabs(const Arg *);
 static void zoomreset(const Arg *);
 
 /* config.h for applying patches and the configuration. */
-#include "config.h"
+#include "config.def.h"
 
 /* XEMBED messages */
 #define XEMBED_FOCUS_IN  4
